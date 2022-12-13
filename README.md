@@ -11,4 +11,4 @@ Intended as a backup for me, and perhaps a starting point for people looking to 
 - template for making a topo map in GMT v6+ and plotting focal mechanisms and GPS vectors
 
 --- stacked_profiles.sh
-script for making stacked perpendicular profiles across a linear feature (e.g. fault scarp)
+- script for making stacked perpendicular profiles across a linear feature (e.g. fault scarp)
