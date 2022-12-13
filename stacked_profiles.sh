@@ -6,7 +6,7 @@ gmt gmtset FORMAT_GEO_MAP D:mm
 # USER INPUT HERE:
 # modify to match your utm zone (e.g. 42N)
 epsg="32642"
-# files: shapefile line - profiles will be plotted perpendicular to this; DEM
+# files: shapefile line - profiles will be plotted perpendicular to this; DEM --- note: doesn't work if shapefile lines have been modified/deleted, need to create file each time you change the line.
 shp="profile_trace_test"
 im="dem-DEM_aligned"
 # map scale
